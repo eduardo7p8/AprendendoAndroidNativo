@@ -7,7 +7,7 @@
     <string name="next">Próxima tela</string>
     <string name="previous">Voltar</string>
 
-    <string name="hello_first_fragment">Hello Word!</string>
-    <string name="texto_secundario_teste">Estou Apredendo a desenvolver em android nativo</string>
+    <string name="hello_first_fragment">Hello Word!<3</string>
+    <string name="texto_secundario_teste">Estou Apredendo a desenvolver em android nativo!!</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
